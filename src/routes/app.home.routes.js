@@ -18,7 +18,7 @@ export default HomeRoutes = () => (
         initialRouteName="Home">
         <Homepage.Screen name="Home" component={Home} 
           options={{
-              headerTitle: 'Menu',            
+              headerTitle: 'Calculo de aposentadoria',            
             }}
         />
     </Homepage.Navigator>                
